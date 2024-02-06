@@ -1,0 +1,108 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-tex {
+    text-align: end;
+    padding-right: 100px;
+    /* width: 400px; */
+    padding-top: 300px;
+
+}
+
+.btn-primary {
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 25px;
+    padding: 15px 35px;
+}
+
+
+.banner-title {
+
+    color: #151414;
+    font-family: "Work Sans";
+    font-size: 30px;
+    font-weight: 700;
+    /* padding: 220px 0px 0px 950px; */
+    margin-bottom: 0;
+
+
+}
+
+.banner-content {
+    color: #444343;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.header {
+    background-image: url(images/banner/banner1.png);
+    background-repeat: no-repeat;
+    max-width: 100%;
+    background-size: cover;
+    /* background-position: bottom right, top left; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section {
+    width: 450px;
+    height: 450px;
+    flex-shrink: 0;
+    border-radius: 50%;
+    background: rgba(241, 91, 34, 0.20);
+}
+
+
+.profile-picsrc {
+    margin-top: 140px;
+}
+
+.section-title {
+    color: #151414;
+    font-family: "Work Sans";
+    font-size: 40px;
+    font-weight: 700;
+    max-width: 100%;
+}
+
+.skills-container {
+    display: flex;
+    gap: 30px;
+}
+
+.resume-column {
+    color: #444343;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.resume-column-title {
+    color: #444343;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.plans {
+    color: #151414;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
