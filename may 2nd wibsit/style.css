@@ -28,8 +28,8 @@
 }
 
 .awlays-title {
-    padding: 60px 85px;
-    padding-bottom: 0px;
+    padding: 30px 85px;
+    padding-bottom: 25px;
     color: #FFF;
     font-size: 40px;
     font-weight: 700;
@@ -114,7 +114,7 @@ body {
 }
 
 .call{
-    padding-left: 100px;
+    padding-left: 90px;
 }
 
 .email{
